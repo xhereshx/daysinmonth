@@ -1,0 +1,2 @@
+# daysinmonth
+basic of javascript 
